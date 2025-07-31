@@ -1,0 +1,32 @@
+{
+    "chest": ["Peck Deck","Push Ups","Bench Press","Smith Machine Incline Bench Press","Incline Bench Press","Decline Bench Press","Cable Crossover","Incline Dumbell Bench Press","Dumbell Bench Press","Chest Press Machine"],
+    "back": {
+        "uppertraps": ["Barbell Shrug","Smith Machine Shrug","Dumbell Shrug","Barbell Row","Deadlift","Chest Supported T-Bar Row","Chest Supported Machine Row","Low Row"],
+        "lowertraps": ["Chest Supported T-Bar Row","Chest Supported Row","Low Row","T-Bar Row","Weighted Pull-Ups","Chin-Ups","Pull-Ups","Wide Grip Barbell Row","Barbell Row"],
+        "lats": ["Wide Grip Lat Pulldown","Lat Pulldown","Weighted Pull-Ups","Chin Ups","Pullups","Neutral Grip Pull-Ups","Neutral Grip Latt Pulldown","Cable Pullover","Barbell Row","Deadlift"],
+        "erectors": ["Back Extensions","Deadlift","Back Extension Machine","Sumo Deadlift","Squat"]
+    },
+    "arms":{
+        "biceps": ["Preacher Curl Machine","Cable Curl","Bayesian Curls","EZ-Bar Curl","Barbell Curl","Alternate Curl","Incline Dumbell Curl","Dumbell Curl"],
+        "triceps":{
+            "lateralhead": ["Tricep Pushdown","Rope Pushdown","Bench Press","Dips"],
+            "longhead": ["Overhead Extension","Cable Kicback","Dumbell Pullover","EZ-Bar Skull Crushers"]
+        },
+        "forearms": ["Wrist Curl","Wrist Extension","Farmer Walk"]
+    },
+    "shoulders": {
+        "anteriordeltoid": ["Smith Machine Shoulder Press","Shoulder Press Machine","Military Press","Cable Front Raise","Smith Machine Incline Bench Press","Incline Bench Press","Dumbell Front Raise","Dumbell Shoulder Press"],
+        "lateraldeltoid": ["Cable Lateral Raise","Dumbell Lateral Raises","Dumbell Shoulder Press","Shoulder Press Machine","Military Press"],
+        "posteriordeltoid": ["Rear Deltoid Fly Machine", "Cable Rear Fly","Single Arm Cable Rear Fly","Dumbell Rear Fly"]
+    },
+    "abs": {
+        "rectusabdominis": ["Crunch Machine","Cable Crunches","Ab Rollout","Barbell Rollout","Weighted Crunches","Crunches","Leg Raises","Plank","Pushups","Bicycle","Leg Crosses"],
+        "obliques": ["Side Plank","Cable Bend","Toe Tapping","Cable Wood Chopper"]
+    },
+    "legs": {
+        "quadriceps": ["Leg Extensions","Barbell Front Squat","Leg Press","Hack Squat","Barbell Squat","Dumbell Squat"],
+        "hamstrings": ["Seated Leg Curl","Lying Leg Curl","Cable Leg Curl","Barbell Romanian Deadlift","Dumbell Romanan Deadlift","Deadlift"],
+        "glutes": ["Cable Kicback","Hip Thrust Machine","Sumo Deadlift","Barbell Squat","Barbell Hip Thrust","Barbell Romanian Deadlift","Deadlift"],
+        "calves": ["Weighted Calf Raises","Calf Raise Machine","Leg Press Calf Raise","Barbell Calf Raise","Seated Calf Raise"]
+    }
+}
